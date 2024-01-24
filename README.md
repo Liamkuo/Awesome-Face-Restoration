@@ -101,6 +101,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2023|FSP|Degradation Learning and Skip-Transformer for Blind Face Restoration|\[[paper](https://www.frontiersin.org/articles/10.3389/frsip.2023.1106465/full)\]\[code\]|GAN|
 |2023|WACV|AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models|\[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Nair_AT-DDPM_Restoring_Faces_Degraded_by_Atmospheric_Turbulence_Using_Denoising_Diffusion_WACV_2023_paper.pdf)\]\[[code](https://github.com/Nithin-GK/AT-DDPM)\]|Diffusion|
 |2023|Arxiv|Towards Real-World Blind Face Restoration withGenerative Diffusion Prior|\[[paper](https://arxiv.org/pdf/2312.15736.pdf)\]\[[code](https://github.com/chenxx89/BFRffusion)\]|Diffusion|
+|2024|ICASSP|Self-Supervised Face Image Restoration with a One-Shot Reference| \[[paper](https://arxiv.org/abs/2203.03005)\]\[[code](https://github.com/Liamkuo/SAIR)\]|GAN|
 
 
 ## Deep Face Super-Resolution  
