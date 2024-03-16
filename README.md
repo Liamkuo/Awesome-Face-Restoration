@@ -139,6 +139,7 @@ If you have any suggestions, feel free to contact me (e-mail: taowangzj@gmail.co
 |2023|TIM|Deep HyFeat Based Attention in Attention Model for Face Super-Resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044127)\][code]|CNN|
 |2023|PRL|Attentive ExFeat based Deep Generative Adversarial Network for Noise Robust Face Super-resolution|\[[paper](https://ieeexplore.ieee.org/abstract/document/10044127)\][code]|GAN|
 |2023|NN|Self-attention Learning Network for Face Super-resolution|\[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023000060)\][code]|CNN|
+|2024|ICASSP|Self-supervised Face Image Restoration with a One-shot Reference|\[[paper](https://arxiv.org/abs/2203.03005)\]\[[code](https://github.com/Liamkuo/SAIR)\]|GAN| 
 
 ## Deep Face Deblurring   
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:600px">|Links<div style="width:100px">|Arch<div style="width:45px">|
